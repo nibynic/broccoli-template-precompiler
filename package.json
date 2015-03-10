@@ -2,7 +2,7 @@
   "author": "Piotrek Bator",
   "name": "broccoli-template-precompiler",
   "description": "A template language agnostic filter for Broccoli that precompiles templates.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/nibynic/broccoli-template-precompiler"

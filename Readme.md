@@ -41,7 +41,7 @@ and returns a JavaScript function of the compiled template.
 For example, when you want to use underscore's templating system that's what you should do:
 
 ```` js
-var _ require "underscore";
+var _ = require("underscore");
 
 var compile = function(string) {
   return _.template(string, { variable: "obj" }).source;
